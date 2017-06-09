@@ -14,6 +14,7 @@ extern uint8_t LOGO_Phantom[];
 //extern float  temp(void); 
 int main()
 { 
+	int i;
 	key_init();
 	UART_Init ();
 	ADC_Init ();
