@@ -22,7 +22,11 @@ int main()
 	while(1)
 	{ 
 		temp();   
-	 Main_UI();		
+	 Main_UI();	
+
+
+
+		
 	}
 
 	}
